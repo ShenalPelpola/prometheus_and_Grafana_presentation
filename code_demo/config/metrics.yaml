@@ -1,0 +1,8 @@
+#Metrics NameSpace
+metrics_namespace: "profile"
+
+#Metrics SubSystem
+metrics_subsystem: "api"
+
+#port
+port: 7070
